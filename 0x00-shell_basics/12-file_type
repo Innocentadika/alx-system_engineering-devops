@@ -1,0 +1,7 @@
+filename="/tmp/iamafile"
+if [ -e "$filename" ]; then
+    file_type=$(file -b "$filename")
+    echo "The file type of $filename is: $file_type"
+else
+    echo "File $filename does not exist."
+fi
