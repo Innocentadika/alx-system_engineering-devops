@@ -1,0 +1,2 @@
+8-firstdelete the command  for deleting  betty from /tmp/my_first_directory
+rm betty /tmp/my_first_directory
