@@ -1,1 +1,2 @@
 a script that changes the working directory to the previous one is 'pwd'
+current_directory=$(pwd) echo "Changed directory from $current_directory to $(pwd)"
