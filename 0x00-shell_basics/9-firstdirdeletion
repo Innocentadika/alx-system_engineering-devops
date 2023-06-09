@@ -1,0 +1,2 @@
+ 9-firstdirdeletion deleting the my_first_directory directory from /tmp
+cd /tmpi rmdir my_first_directory
